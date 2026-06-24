@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python / Colab
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX build junk
+report/*.aux
+report/*.log
+report/*.out
+report/*.synctex.gz
+
+# Optional: large artefacts (decide per file)
+# models/*.pkl
