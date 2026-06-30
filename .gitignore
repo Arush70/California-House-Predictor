@@ -230,3 +230,6 @@ report/*.synctex.gz
 
 # Optional: large artefacts (decide per file)
 # models/*.pkl
+
+models/*models/*.joblib
+models/*.joblib
