@@ -233,3 +233,9 @@ report/*.synctex.gz
 
 models/*models/*.joblib
 models/*.joblib
+
+# OS / editor / notebook clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
